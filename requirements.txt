@@ -1,0 +1,13 @@
+python-dotenv
+langchain
+langchainhub
+langchain_core
+langchain_community
+langchain_huggingface
+faiss-cpu
+langchain_groq
+langchain_google_vertexai 
+langchain_huggingface 
+bs4
+chromadb
+langchain_google_genai
